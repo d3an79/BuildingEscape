@@ -1,0 +1,18 @@
+##########################
+# Unreal generated files #
+##########################
+
+*Binaries
+*Build
+*DerivedDataCahe
+*Intermediate
+*Saved
+*Content/StarterContent
+
+##############################
+# Vis Studio generated files #
+##############################
+
+*.VC.db
+
+
