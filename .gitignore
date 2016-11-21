@@ -7,12 +7,13 @@
 *DerivedDataCahe
 *Intermediate
 *Saved
-*Content/StarterContent
+*Content/StarterContent/Textures
+*Content/StarterContent/HDRI
 
 ##############################
 # Vis Studio generated files #
 ##############################
 
 *.VC.db
-
+*.suo
 
